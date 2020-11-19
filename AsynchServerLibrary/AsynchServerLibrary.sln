@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsynchServerLibrary", "AsynchServerLibrary.csproj", "{FBB3C075-ABE2-4C0A-9B88-B5E9B240AB7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program", "..\Program\Program.csproj", "{DB6D06F3-E377-4613-904A-D7DBAB72096D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBB3C075-ABE2-4C0A-9B88-B5E9B240AB7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBB3C075-ABE2-4C0A-9B88-B5E9B240AB7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBB3C075-ABE2-4C0A-9B88-B5E9B240AB7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBB3C075-ABE2-4C0A-9B88-B5E9B240AB7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB6D06F3-E377-4613-904A-D7DBAB72096D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB6D06F3-E377-4613-904A-D7DBAB72096D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB6D06F3-E377-4613-904A-D7DBAB72096D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB6D06F3-E377-4613-904A-D7DBAB72096D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1BCD2D4-6006-4836-9CBF-75DF30EB8925}
+	EndGlobalSection
+EndGlobal
